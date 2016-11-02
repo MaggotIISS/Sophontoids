@@ -8,7 +8,7 @@
   </information>
   <resources>
     <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
-    <jar href="Sophontoids.jar" size="12613" download="eager" />
+    <jar href="Sophontoids.jar" size="12609" download="eager" />
   </resources>
   <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="Sophontoids" >
     <param name="requiredFXVersion" value="8.0+"/>
